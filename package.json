@@ -1,0 +1,23 @@
+{
+  "name": "forum-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insdex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasha95/forum-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasha95/forum-backend/issues"
+  },
+  "homepage": "https://github.com/Sasha95/forum-backend#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "postgraphql": "^3.5.0"
+  }
+}
